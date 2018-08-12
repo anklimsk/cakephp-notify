@@ -1,4 +1,5 @@
 # CakePHP 2.x Notification plugin
+[![Build Status](https://travis-ci.com/anklimsk/cakephp-notify.svg?branch=master)](https://travis-ci.com/anklimsk/cakephp-notify)
 
 Sending E-mail from CakePHP using task queues and sending a notification to the user using WEB Notifications API
 
