@@ -6,7 +6,7 @@ Sending E-mail from CakePHP using task queues and sending a notification to the 
 ## This plugin provides next features:
 
 - Sending E-mail from CakePHP using task queues;
-- Using Inline CSS style;
+- Using Inline CSS style with `Twitter Bootstrap`;
 - Notification to the user by ID or role using WEB Notifications API.
 
 ## Installation
