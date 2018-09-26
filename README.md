@@ -30,7 +30,7 @@ Sending E-mail from CakePHP using task queues and sending a notification to the 
    // Add jQuery plugin Server-Sent Events
    echo $this->Html->script('CakeNotify.jquery.sse.min.js');
 
-   If need use store configuration of plugin in storages, include file:
+   // If need use store configuration of plugin in storages, include file:
    echo $this->Html->script('CakeNotify.js.storage.min.js');
    ```
 
