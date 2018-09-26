@@ -19,7 +19,7 @@ matrix:
     - php: 7.1
       env:
         - PHPCS=1
-        - PHPCS_IGNORE=Plugin/CakeBasicFunctions/ Plugin/CakeInstaller/ Plugin/CakeExtendTest/ Plugin/CakeConfigPlugin/ Plugin/CakeTheme/ Plugin/Queue/ Plugin/Tools/
+        - PHPCS_IGNORE=Plugin/CakeBasicFunctions/ Plugin/CakeInstaller/ Plugin/CakeExtendTest/ Plugin/CakeConfigPlugin/ Plugin/CakeTheme/ Plugin/Queue/ Plugin/Tools/ Plugin/AssetCompress/ Plugin/CakeTheme/
     - php: 7.1
       env:
         - FOC_VALIDATE=1
