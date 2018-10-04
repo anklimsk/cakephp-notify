@@ -15,7 +15,7 @@
         "anklimsk/cakephp-extended-test": "^1.0.0",
         "anklimsk/cakephp2-theme": "^1.0.0",
         "dereuromark/cakephp-queue": "^2.3.0",
-        "dereuromark/cakephp-tools": "^0.12.3"
+        "dereuromark/cakephp-tools": "^0.12.4"
     },
     "support": {
         "source": "https://github.com/anklimsk/cakephp-notify"
